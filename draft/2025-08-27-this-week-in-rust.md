@@ -49,6 +49,8 @@ and just ask the editors to select the category.
 
 ### Rust Walkthroughs
 
+* [Shortcomings of Procedural Macros, And How To Overcome Them]([https://example.com/my_article](https://cryptical.xyz/rust/shortcomings-of-macros))
+
 ### Research
 
 ### Miscellaneous
